@@ -1,0 +1,33 @@
+F:\C#\Atestat2021\Atestat2021\bin\Debug\Atestat2021.exe.config
+F:\C#\Atestat2021\Atestat2021\bin\Debug\Atestat2021.exe
+F:\C#\Atestat2021\Atestat2021\bin\Debug\Atestat2021.pdb
+F:\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.csprojAssemblyReference.cache
+F:\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.Form1.resources
+F:\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.FormAutentificare.resources
+F:\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.FormLogin.resources
+F:\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.Properties.Resources.resources
+F:\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.csproj.GenerateResource.cache
+F:\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.csproj.CoreCompileInputs.cache
+F:\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.exe
+F:\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.pdb
+F:\C#\Atestat2021\Atestat2021\bin\Debug\bazedateUseri.mdf
+F:\C#\Atestat2021\Atestat2021\bin\Debug\bazedateUseri_log.ldf
+F:\C#\Atestat2021\Atestat2021\bin\Debug\bazedateEchipe.mdf
+F:\C#\Atestat2021\Atestat2021\bin\Debug\bazedateEchipe_log.ldf
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\bin\Debug\bazedateUseri.mdf
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\bin\Debug\bazedateUseri_log.ldf
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\bin\Debug\bazedateEchipe.mdf
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\bin\Debug\bazedateEchipe_log.ldf
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\bin\Debug\Atestat2021.exe.config
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\bin\Debug\Atestat2021.exe
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\bin\Debug\Atestat2021.pdb
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.csproj.AssemblyReference.cache
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.csproj.SuggestedBindingRedirects.cache
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.Form1.resources
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.FormAutentificare.resources
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.FormLogin.resources
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.Properties.Resources.resources
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.csproj.GenerateResource.cache
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.csproj.CoreCompileInputs.cache
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.exe
+E:\Liceu C++_C#\C#\Atestat2021\Atestat2021\obj\Debug\Atestat2021.pdb
